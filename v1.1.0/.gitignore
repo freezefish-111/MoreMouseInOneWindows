@@ -1,0 +1,30 @@
+# Build output
+/MultiCursor.exe
+/build/
+/out/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Visual Studio / CMake
+/.vs/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Local logs and test artifacts
+build_error.txt
+*.log
+*.png
+*.zip
+
+# OS
+Thumbs.db
+desktop.ini
